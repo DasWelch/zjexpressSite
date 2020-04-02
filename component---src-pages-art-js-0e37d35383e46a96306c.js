@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{QHRp:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),c=a.n(n),l=a("Bl7J"),r=a("vrFN");t.default=function(){return c.a.createElement(l.a,null,c.a.createElement(r.a,{title:"art"}),c.a.createElement("div",{className:"columns"}))}}}]);
+//# sourceMappingURL=component---src-pages-art-js-0e37d35383e46a96306c.js.map
