@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{QHRp:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),c=a.n(n),l=a("Bl7J"),o=a("vrFN"),r=a("wV12");t.default=function(){return c.a.createElement(l.a,null,c.a.createElement(o.a,{title:"art"}),c.a.createElement("div",{className:"columns"},c.a.createElement(r.a,{bottomText:"test of using P5 on gatsby"})))}}}]);
-//# sourceMappingURL=component---src-pages-art-js-ff6c4db1d1d6e39520ad.js.map
