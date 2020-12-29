@@ -1,0 +1,110 @@
+        baseinfo:
+                FullName: "Zachery J. Welch"
+                title: "Full Stack Software Developer"
+                contact: 
+                        city: "Waterford, NY 12188"
+                        email: "zacheryjwelch@gmail.com"
+                        phone: "518-935-5994"
+                authorization: "Authorized to work in the US for any employer" 
+                baseDescription: "Full stack software developer with a background of academic computer as well as professional web development. With experience in server side and client facing applications including strong C# and Javascript skills. Having a background in professional leadership working on teams and direct client interactions."
+
+        coreSkills: 
+                Title: "Core Skills"
+                Back-end: "C#, SQL, SQL Server, REST APIs,.NET, Node.js"
+                DB : SQL Server, MongoDB
+                Front-end: Javascript , React , Bootstrap, Bulma, HTML5, SCSS
+                OS/Tools: Linux, WIndows, MacOSX, Visual Studio, AWS
+
+        workExperience: Work Experience  
+                Experience: Certified Flight Instructor
+                        Employer: "Hewison Aviation" 
+                        city: "Albany,NY"
+                        period: "July 2020 to Present"
+                        jobSummary: "In summer of 2020 I achieved a lifelong goal of earning my Certified Flight Instructor Certificate and Teaching others the joy of flight."
+                        Duties: 
+                                - Provided academic and hands on instruction to students on procedures of flying an airplane
+                                - Ensured safety of students and flight through expert understanding of aviation and aircraft
+                                - Ensured safe and continued operation of aircraft by coordinating maintenance with multiple providers 
+                
+                Experience: Software Developer 
+                        Employer: The MailWorks 
+                        city: Albany, NY 
+                        period: June 2019 to February 2020
+                        jobSummary: At the MailWorks, I developed and fixed existing ASP.NET applications adding functionality and webpages using C# and Razor pages. In addition I extended each system's storage capabilities using AWS S3. 
+                        Duties: 
+                                - Designed and coded applications to add and fix functionality in both client facing and internal applications
+                                - Updated and upgraded existing ASP.NET applications 
+                                - Architected extensions to the existing ASP.NET applications 
+                                
+                Experience: CRM Developer
+                        Employer: Aeon Nexus
+                        city: Albany, NY 
+                        period: March 2018 to June 2019
+                        jobSummary: While working at Aeon Nexus, I developed client based Dynamics CRM/365 applications using C#, SQL, and the Dynamics customization tools. These systems are currently used by state law divisions for legal case management.
+                        Duties: 
+                                - Developed software solutions and plugins for Microsoft Dynamic
+                                - Created dynamic reports using both SQL and Dynamics data APIs
+                                - Installed and administered servers and other hardware for internal use
+
+                Experience: Student Assistant/Intern
+                        Employer: NYS Department of Health
+                        city: Albany, NY 
+                        period: August 2016 to December 2017
+                        jobSummary: At the NYS Department of Health I analyzed financial statements from heath and housing providers to ensure compliance with state and federal law.
+                        Duties: 
+                                - Computed and analyzed State financial documents
+                                - Cross analyzed State databases for Medicaid fraud
+                                - Utilized Excel and Visual Basic macros 
+        
+        Education: Education
+                Degree: Bachelor of Science in Business Administration 
+                        School: University at Albany
+                        city: Albany, NY 
+                        Graduation: December 2017 
+
+                Degree: Minor in Computer Science
+                        School: University at Albany
+                        city: Albany, NY 
+                        Graduation: December 2017 
+
+                Degree: Associate of Science in Aviation Science
+                        School: Schenectady County Community College
+                        city: Schenectady, NY
+                        Graduation: May 2014
+        
+        additionalSkills: Additional Skills
+                - C 
+                - Java 
+                - SCSS
+                - jQuery 
+                - PowerShell 
+                - Bash 
+                - Linux 
+                - Windows 
+                - MacOS 
+                - Git  
+                - Bootstrap 
+                - Microsoft SQL ServerSQL
+                - Server Management Studio 
+                - Visual Studio 
+                - Linqpad 
+                - IIS 
+                - MVC 
+                - Razor pages 
+                - Visual Studio 
+                - Microsoft Office 
+                - LINQ 
+                - MongoDB
+
+        Links: Links
+                Link: http://www.zjexpress.net/
+                        URL: http://www.zjexpress.net/ 
+                        Description: A personal portfolio and blog site created to showcase tutorials, articles, and new things I am working on.
+                        Highlights: 
+                                Highlight: home
+                                        url: http://www.zjexpress.net/
+                Link: https://github.com/DasWelch
+                        URL: https://github.com/DasWelch 
+                        Description: My personal Github account
+
+                        Highlights: 

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{yp8A:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a),c=t("Bl7J"),r=t("vrFN"),o=t("dI71");t("SZOQ"),a.Component,n.default=function(){return l.a.createElement(c.a,null,l.a.createElement(r.a,{title:"Gallery"}),l.a.createElement("div",{className:"page-content-padding"}))}}}]);
+//# sourceMappingURL=component---src-pages-gallery-js-439cac667029af06709d.js.map
